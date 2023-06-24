@@ -11,7 +11,7 @@ function Login ({ onAuth }) {
     <div className={styles.root}>
       <p className={styles.text}>
         Necesitamos que inicies sesion con tu cuenta de Github
-        para que puedas leer y escribir mensajes.
+        para que puedas leer y escribir mensajes. Lol
       </p>
       <button
         onClick={onAuth}
